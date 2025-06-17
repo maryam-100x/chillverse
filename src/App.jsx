@@ -102,7 +102,7 @@ function App() {
         {/* Professional Header */}
         <div className="header-container">
           <div className="header-content">
-            <h1 className="title">Chillverse Gallery</h1>
+            <h1 className="title">ChillVerse Gallery</h1>
             <div className="subtitle">
   <a
     className="location"
