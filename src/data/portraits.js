@@ -55,4 +55,29 @@ export const portraits = [
     username: "_Shadow36",
     image: "/portraits/shadow.png"
   },
+  {
+    name: "gainzy",
+    username: "gainzy222",
+    image: "/portraits/gainzy.png"
+  },
+   {
+    name: "mrfrog",
+    username: "TheMisterFrog",
+    image: "/portraits/mrfrog.png"
+  },
+   {
+    name: "ruthless",
+    username: "DemonFlip12",
+    image: "/portraits/ruthless.png"
+  },
+  {
+    name: "darildo",
+    username: "Darildo666",
+    image: "/portraits/darildo.png"
+  },
+   {
+    name: "jb",
+    username: "justinbieber",
+    image: "/portraits/jb.png"
+  },
 ];

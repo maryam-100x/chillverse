@@ -1,15 +1,15 @@
 /* Base Styles */
-body, html, #root, .App {
+body, html, #root {
   margin: 0;
   padding: 0;
-  height: 100%;
+  min-height: 100vh;
   width: 100%;
   color: white;
   font-family: 'Montserrat', sans-serif;
   overflow-x: hidden;
-  position: relative;
   background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
 }
+
 
 .App {
   position: relative;
@@ -22,10 +22,12 @@ body, html, #root, .App {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   z-index: 0;
+  pointer-events: none;
 }
+
 
 /* Nebula Overlay */
 .nebula-overlay {
