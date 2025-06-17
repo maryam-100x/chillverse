@@ -190,4 +190,9 @@ export const portraits = [
     username: "PF__Chang",
     image: "/portraits/crashout.png"
   },
+  {
+    name: "ria",
+    username: "rianix7",
+    image: "/portraits/ria.png"
+  },
 ];
