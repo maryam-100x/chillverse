@@ -80,4 +80,34 @@ export const portraits = [
     username: "justinbieber",
     image: "/portraits/jb.png"
   },
+  {
+    name: "beaver",
+    username: "beaverd",
+    image: "/portraits/beaver.png"
+  },
+  {
+    name: "maryam",
+    username: "maryam100x",
+    image: "/portraits/maryam.png"
+  },
+   {
+    name: "kim",
+    username: "kimjongjeet",
+    image: "/portraits/kim.png"
+  },
+  {
+    name: "israel",
+    username: "Israel",
+    image: "/portraits/israel.png"
+  },
+   {
+    name: "neet",
+    username: "neet_sol",
+    image: "/portraits/neet.png"
+  },
+  {
+    name: "alon",
+    username: "a1lon9",
+    image: "/portraits/alon.png"
+  },
 ];
