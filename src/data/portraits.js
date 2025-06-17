@@ -130,4 +130,34 @@ export const portraits = [
     username: "penelopetrix1",
     image: "/portraits/penelope.png"
   },
+  {
+    name: "pepe",
+    username: "pepecoineth",
+    image: "/portraits/pepe.png"
+  },
+   {
+    name: "deji",
+    username: "deji",
+    image: "/portraits/deji.png"
+  },
+   {
+    name: "zuck",
+    username: "finkd",
+    image: "/portraits/zuck.png"
+  },
+  {
+    name: "hodl",
+    username: "hodlboi",
+    image: "/portraits/hodl.png"
+  },
+  {
+    name: "pray",
+    username: "123PrayForMe",
+    image: "/portraits/pray.png"
+  },
+  {
+    name: "lexa",
+    username: "LexaproTrader",
+    image: "/portraits/lexa.png"
+  },
 ];
