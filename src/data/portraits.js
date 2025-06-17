@@ -180,4 +180,14 @@ export const portraits = [
     username: "bobisblob",
     image: "/portraits/blob.png"
   },
+  {
+    name: "diddy",
+    username: "johnsonsbaby",
+    image: "/portraits/diddy.png"
+  },
+  {
+    name: "crashout",
+    username: "PF__Chang",
+    image: "/portraits/crashout.png"
+  },
 ];
