@@ -175,4 +175,9 @@ export const portraits = [
     username: "Cupseyy",
     image: "/portraits/cupsey.png"
   },
+  {
+    name: "blob",
+    username: "bobisblob",
+    image: "/portraits/blob.png"
+  },
 ];
