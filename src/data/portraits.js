@@ -110,4 +110,19 @@ export const portraits = [
     username: "a1lon9",
     image: "/portraits/alon.png"
   },
+  {
+    name: "ansem",
+    username: "blknoiz06",
+    image: "/portraits/ansem.png"
+  },
+  {
+    name: "kingvon",
+    username: "KingVonFrmdaWic",
+    image: "/portraits/kingvon.png"
+  },
+   {
+    name: "sling",
+    username: "slingdeez",
+    image: "/portraits/sling.png"
+  },
 ];
