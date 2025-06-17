@@ -156,6 +156,9 @@ function App() {
     𝕏 Community
   </a>
 </div>
+<p className="gallery-cta">
+  Post in the 𝕏 Community to get featured.
+</p>
 
 
 
