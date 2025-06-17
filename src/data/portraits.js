@@ -160,4 +160,19 @@ export const portraits = [
     username: "LexaproTrader",
     image: "/portraits/lexa.png"
   },
+   {
+    name: "patty",
+    username: "patty_fi",
+    image: "/portraits/patty.png"
+  },
+  {
+    name: "404",
+    username: "404flipped",
+    image: "/portraits/404.png"
+  },
+  {
+    name: "cupsey",
+    username: "Cupseyy",
+    image: "/portraits/cupsey.png"
+  },
 ];
